@@ -1,2 +1,2 @@
 # .github
-Community health files for the @ZnixTea
+Community health files for the @ZixTeam
