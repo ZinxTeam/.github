@@ -1,2 +1,2 @@
 # .github
-Community health files for the @ZixTeam
+Community health files for the @ZinxTeam
